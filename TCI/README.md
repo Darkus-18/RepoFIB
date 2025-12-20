@@ -16,7 +16,7 @@ problema es puntuarà sobre 0.5 punts i es valorarà tot: exposició oral i reso
 escrita. Cada estudiant podrà fer un màxim de 4 problemes (màxim de 2 punts per 
 avaluació continuada). Si al final del curs un estudiant ha fet 𝑡 problemes 0
 les puntuacions dels parcials es reajustaran:<br>
-&emsp;P1 → *30 2∙t*<br>
-&emsp;P2 → *70 3∙t*<br>
+&emsp;P1 → *30 - 2∙t*<br>
+&emsp;P2 → *70 - 3∙t*<br>
 - La realització de l’examen final NO és obligatòria, només serveix per pujar nota (cas 
 dels estudiants aprovats per curs). En cap cas baixarà nota 
