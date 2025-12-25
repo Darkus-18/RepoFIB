@@ -27,6 +27,6 @@ La propiedad intelectual de los documentos pertenecen a sus respectivos autores:
   - [GVA.pdf](Introducció_Simulació/GVA.pdf)
   - [GVA.pdf](RNG_RVG/GVA.pdf)
 
-Los apuntes oficiales de la asignatura los encontrará en Atenea<br>
+Los apuntes oficiales de la asignatura los encontrará en el Racó<br>
 
 ---
