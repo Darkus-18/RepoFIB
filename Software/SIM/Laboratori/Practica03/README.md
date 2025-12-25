@@ -3,7 +3,7 @@
 ## Lab - Practica03
 
 Modelitzación del ciclo del aigua durante episodios de sequera<br><br>
-Autors:
+Autores:
 - @Darkus-18 && @J-ZP:
     - [Model_Riu.pdf](Model_Riu.pdf)
 - Víctor Garcia Carrasco:
@@ -11,5 +11,6 @@ Autors:
     - [Dades](Dades)
 
 ---
+
 
 
