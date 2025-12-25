@@ -2,7 +2,7 @@
 
 ## Lab - Practica04
 
-Disseny d'experiments sobre el model de distribució de paqueteria<br><br>
+SDL del ciclo del aigua durante episodios de sequera<br><br>
 Autors:
 - @Darkus-18 && @J-ZP:
     - [SDL_del_cicle_de_l’aigua_durant_Episodis_de_Sequera.pdf](SDL_del_cicle_de_l’aigua_durant_Episodis_de_Sequera.pdf)
@@ -15,3 +15,4 @@ Autors:
     - [SIM_-_(US)_Formalisms_I_introducction_-_Pau_Fonseca_i_Casas.pdf](SIM_-_(US)_Formalisms_I_introducction_-_Pau_Fonseca_i_Casas.pdf)
 
 ---
+
