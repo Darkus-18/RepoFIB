@@ -2,8 +2,8 @@
 
 ## Lab - Practica02
 
-Disseny d'experiments sobre el model de distribució de paqueteria<br><br>
-Autors:
+Disseño de experimentos sobre el modelo de distribución de paqueteria<br><br>
+Autores:
 - @Darkus-18 && @J-ZP:
     - [Informe.pdf](Informe.pdf)
     - [Resultats.xlsx](Resultats.xlsx)
@@ -13,3 +13,4 @@ Autors:
     - [Lab_RVGDOE_02.pdf](Lab_RVGDOE_02.pdf)
 
 ---
+
