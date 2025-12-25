@@ -4,7 +4,7 @@
 
 Apuntes de la asignatura ASO, en la UPC FIB
 
-Aquí encontrará los pdfs de las presentaciones que nos facilitaron en la asignatura para poder realizar la asignatura
+Aquí encontrará los pdfs de las presentaciones que nos facilitaron en la asignatura para poder realizar la asignatura<br>
 La propiedad intelectual de los documentos pertenecen su autor:
 - René Serral Gracià
 
