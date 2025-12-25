@@ -2,8 +2,8 @@
 
 ## Lab - Practica01
 
-Construcció d’un model de simulació<br><br>
-Autors:
+Construcción de un modelo de simulación<br><br>
+Autores:
 - @Darkus-18 && @J-ZP:
     - [Construcció d'un model de simulació.pdf](Construcció_d'un_model_de_simulació.pdf)
     - [PROJ1](PROJ1)
