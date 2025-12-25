@@ -2,7 +2,7 @@
 
 ## Lab - Practica03
 
-Disseny d'experiments sobre el model de distribució de paqueteria<br><br>
+Modelització del cicle de l’aigua durant episodis de sequera<br><br>
 Autors:
 - @Darkus-18 && @J-ZP:
     - [Model_Riu.pdf](Model_Riu.pdf)
@@ -11,3 +11,4 @@ Autors:
     - [Dades](Dades)
 
 ---
+
