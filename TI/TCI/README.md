@@ -5,7 +5,7 @@
 Apuntes de la asignatura TCI, en la UPC FIB
 
 Aquí encontrará los pdfs de las presentaciones que nos facilitaron en la asignatura para poder realizar la asignatura<br>
-La propiedad intelectual de los documentos pertenecen su autor:
+La propiedad intelectual de los documentos pertenecen a su autor:
 - Francesc Tiñena
 
 Los apuntes oficiales de la asignatura los encontrará en el Racó
