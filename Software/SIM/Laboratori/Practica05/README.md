@@ -2,7 +2,7 @@
 
 ## Lab - Practica03
 
-Modelització del cicle de l’aigua durant episodis de sequera<br><br>
+Modelitzación del ciclo del aigua durante episodios de sequera<br><br>
 Autors:
 - @Darkus-18 && @J-ZP: 
 - Xavier Pi:
@@ -11,3 +11,4 @@ Autors:
     - [slides_en3b.pdf](slides_en3b.pdf)
 
 ---
+
