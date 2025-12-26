@@ -9,6 +9,6 @@ La propiedad intelectual de los documentos pertenecen a sus respectivos autores:
 
 Los apuntes oficiales de la asignatura los encontrará en Atenea<br>
 Las prácticas han sido realizadas por:
-- @Darkus-18 && @J-ZP *(en el README de cada práctica se especifica qué documentos han sido creados por nosotros para la práctica)*
+- [@Darkus-18](https://github.com/Darkus-18) & [@J-ZP](https://github.com/J-ZP) *(en el README de cada práctica se especifica qué documentos han sido creados por nosotros para la práctica)*
 
 ---
