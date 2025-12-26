@@ -1,4 +1,4 @@
-# SIM
+# SIM 2025-2026 Q1
 
 ## Lab - Practica03
 
@@ -11,4 +11,5 @@ Autors:
     - [slides_en3b.pdf](slides_en3b.pdf)
 
 ---
+
 
