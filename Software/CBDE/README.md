@@ -7,7 +7,7 @@ Apuntes de la asignatura CBDE, en la UPC FIB
 Aquí encontrará los pdfs de las presentaciones que nos facilitaron en la asignatura para poder realizar la asignatura<br>
 La propiedad intelectual de los documentos pertenecen a sus respectivos autores:
 - @Darkus18 & 
-- @Darkus18 & 
+- @Darkus18 & @martinamaldox:
 - @Darkus18 & 
 - @Darkus18 & 
 - @Darkus18 & @Xavi533:
