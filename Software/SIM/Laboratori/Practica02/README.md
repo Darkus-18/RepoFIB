@@ -4,7 +4,7 @@
 
 Disseño de experimentos sobre el modelo de distribución de paqueteria<br><br>
 Autores:
-- @Darkus-18 && @J-ZP:
+- [@Darkus-18](https://github.com/Darkus-18) & [@J-ZP](https://github.com/J-ZP):
     - [Informe.pdf](Informe.pdf)
     - [Resultats.xlsx](Resultats.xlsx)
     - [Python_camions.ipynb](Python_camions.ipynb)
@@ -13,5 +13,6 @@ Autores:
     - [Lab_RVGDOE_02.pdf](Lab_RVGDOE_02.pdf)
 
 ---
+
 
 
