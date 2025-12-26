@@ -4,7 +4,7 @@
 
 Construcción de un modelo de simulación<br><br>
 Autores:
-- @Darkus-18 && @J-ZP:
+- [@Darkus-18](https://github.com/Darkus-18) & [@J-ZP](https://github.com/J-ZP):
     - [Construcció d'un model de simulació.pdf](Construcció_d'un_model_de_simulació.pdf)
     - [PROJ1](PROJ1)
     - [Python_camions.ipynb](Python_camions.ipynb)
