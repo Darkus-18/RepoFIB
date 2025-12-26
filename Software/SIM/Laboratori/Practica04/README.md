@@ -4,7 +4,7 @@
 
 SDL del ciclo del aigua durante episodios de sequera<br><br>
 Autors:
-- @Darkus-18 && @J-ZP:
+- [@Darkus-18](https://github.com/Darkus-18) & [@J-ZP](https://github.com/J-ZP):
     - [SDL_del_cicle_de_l’aigua_durant_Episodis_de_Sequera.pdf](SDL_del_cicle_de_l’aigua_durant_Episodis_de_Sequera.pdf)
     - [SDL_CicleAigua.drawio](SDL_CicleAigua.drawio)
 - Víctor Garcia Carrasco:
@@ -15,5 +15,6 @@ Autors:
     - [SIM_-_(US)_Formalisms_I_introducction_-_Pau_Fonseca_i_Casas.pdf](SIM_-_(US)_Formalisms_I_introducction_-_Pau_Fonseca_i_Casas.pdf)
 
 ---
+
 
 
