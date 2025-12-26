@@ -6,6 +6,12 @@ Apuntes de la asignatura CBDE, en la UPC FIB
 
 Aquí encontrará los pdfs de las presentaciones que nos facilitaron en la asignatura para poder realizar la asignatura<br>
 La propiedad intelectual de los documentos pertenecen a sus respectivos autores:
+- @Darkus18 & 
+- @Darkus18 & 
+- @Darkus18 & 
+- @Darkus18 & 
+- @Darkus18 & @Xavi533:
+- @Darkus18 & 
 - UPC FIB (asignatura CBDE):
     - [L1-Vector_Databases.pdf](Laboratory/Lab01-Impedance_Mismatch/L1-Vector_Databases.pdf)
 - Oscar Romero:
