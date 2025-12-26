@@ -4,13 +4,14 @@
 
 Modelitzación del ciclo del aigua durante episodios de sequera<br><br>
 Autores:
-- @Darkus-18 && @J-ZP:
+- [@Darkus-18](https://github.com/Darkus-18) & [@J-ZP](https://github.com/J-ZP):
     - [Model_Riu.pdf](Model_Riu.pdf)
 - Víctor Garcia Carrasco:
     - [SD_Embassaments.pdf](SD_Embassaments.pdf)
     - [Dades](Dades)
 
 ---
+
 
 
 
