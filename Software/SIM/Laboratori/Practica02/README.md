@@ -1,4 +1,4 @@
-# SIM
+# SIM 2025-2026 Q1
 
 ## Lab - Practica02
 
@@ -13,4 +13,5 @@ Autores:
     - [Lab_RVGDOE_02.pdf](Lab_RVGDOE_02.pdf)
 
 ---
+
 
