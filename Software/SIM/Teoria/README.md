@@ -1,4 +1,4 @@
-# SIM
+# SIM 2025-2026 Q1
 
 ## Teoria
 
