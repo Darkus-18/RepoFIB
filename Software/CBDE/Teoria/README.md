@@ -24,7 +24,14 @@ Este curso està completamente programado en un curso Moodle, disponible en: [ht
 
 Cada laboratorio consta de dos sesiones<br>
 Estas sesiones están diseñadas para realizarse en grupo *(grupos de dos que cambian en cada laboratorio sin repetirse)*<br>
-Se recomienda leer atentamente la información sobre las sesiones de laboratorio en Learn-SQL, ya que los laboratorios aparecen debidamente en Learn-SQL y estos eventos contienen instrucciones detalladas a seguir y materiales adicionales para que puedas progresar con éxito - ¡Presta atención a las fechas límite; no aceptamos entregas fuera de plazo!
+Se recomienda leer atentamente la información sobre las sesiones de laboratorio en Learn-SQL, ya que los laboratorios aparecen debidamente en Learn-SQL y estos eventos contienen instrucciones detalladas a seguir y materiales adicionales para que puedas progresar con éxito
+- ¡Presta atención a las fechas límite; no aceptamos entregas fuera de plazo!
+
+**¡IMPORTANT!** <br>
+Please, bring your own laptop for ALL lab sessions (except 2 and 3, which are done in paper). This is because most of the set up requirements are not possible in the lab images
+
+Many labs may require to be familiar with functional programming and specifically Python<br>
+If you are not familiar with it, please, take a tutorial *(e.g., [https://docs.python.org/3/tutorial/index.html](https://docs.python.org/3/tutorial/index.html)* before the first lab
 
 ### CLASES
 
