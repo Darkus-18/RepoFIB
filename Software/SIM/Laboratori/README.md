@@ -1,6 +1,6 @@
 # SIM 2025-2026 Q1
 
-## Laboratorio
+## LABORATORIO
 
 Prácticas de la asignatura SIM, en la UPC FIB<br><br>
 Aquí encontrará los pdfs de las presentaciones que nos facilitaron en la asignatura para poder realizar las prácticas<br>
