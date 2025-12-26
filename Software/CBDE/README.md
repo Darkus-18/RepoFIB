@@ -10,7 +10,7 @@ La propiedad intelectual de los documentos pertenecen a sus respectivos autores:
 - [@Darkus-18](https://github.com/Darkus-18) & [@martinamaldox](https://github.com/martinamaldox):
 - [@Darkus-18](https://github.com/Darkus-18) & [@marto-asw](https://github.com/marto-asw):
 - [@Darkus-18](https://github.com/Darkus-18) & [@Xavi533](https://github.com/Xavi533):
-- [@Darkus-18](https://github.com/Darkus-18) & :
+- [@Darkus-18](https://github.com/Darkus-18) & [@Fr4n9](https://github.com/Fr4n9):
 - UPC FIB (asignatura CBDE):
     - [L1-Vector_Databases.pdf](Laboratory/Lab01-Impedance_Mismatch/L1-Vector_Databases.pdf)
 - Oscar Romero:
