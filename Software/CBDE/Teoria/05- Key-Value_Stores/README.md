@@ -1,0 +1,1 @@
+[Additional Material: The Hadoop Ecosystem in a NutshellURL](https://www.sciencedirect.com/science/article/abs/pii/S0306437914001458)
