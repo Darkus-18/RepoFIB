@@ -2,9 +2,9 @@
 
 ## TEORIA
 
-Apuntes de la asignatura CBDE, en la UPC FIB
+Apuntes de la asignatura CBDE, en la UPC FIB.
 
-Aquí encontrará los pdfs de las presentaciones que nos facilitaron en la asignatura para poder realizar la asignatura<br>
+Aquí encontrará los pdfs de las presentaciones que nos facilitaron en la asignatura para poder realizar la asignatura.<br>
 La propiedad intelectual de los documentos pertenecen a sus respectivos autores:
 - Oscar Romero:
     - [01-Introduction.pdf](00-Course_presentation/01-Introduction.pdf)
@@ -28,7 +28,8 @@ La propiedad intelectual de los documentos pertenecen a sus respectivos autores:
     - [Additional-Material-4th_and_5th_BOTTLENECKS_-_Concurrency_control_and_2PC](01-NOSQL_Databases/Additional-Material-4th_and_5th_BOTTLENECKS_-_Concurrency_control_and_2PC)
 - Oscar Romero, Victor Herrero, Alberto Abelló & Jaume Ferrarons:
     - [Additional Material: The Hadoop Ecosystem in a NutshellURL](05-Key-Value_Stores/README.md)
-Los apuntes oficiales de la asignatura los encontrará en el Moodle<br>
-Siempre que tengas que producir material *(para entregar posteriormente en una clase o en una sesión de laboratorio)*, asegúrate de cumplir con las normas antiplagio que se indican en la parte superior del curso Moodle
+    - 
+Los apuntes oficiales de la asignatura los encontrará en el Moodle.<br>
+Siempre que tengas que producir material *(para entregar posteriormente en una clase o en una sesión de laboratorio)*, asegúrate de cumplir con las normas antiplagio que se indican en la parte superior del curso Moodle.
 
 ---
