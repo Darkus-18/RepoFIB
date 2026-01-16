@@ -18,7 +18,7 @@ En la carpeta de [Laboratorio](ASO/Laboratorio) encontrará los pdfs de las pres
 
 ## Extras
 
-... es un trabajo extra realizado para la asignatura de ASO.
+[Hyperscalares.pdf](Hyperscalares.pdf) es un trabajo extra realizado para la asignatura de ASO.
 
 Este pide realizar un estudio comparativo *(unas 8 páginas máximo)* donde se comparen 4 Hyperscalars, o sea infraestructura de cloud público.
 En nuestro caso, comparamos: GCP, IBM Cloud, AWS y Azure.
